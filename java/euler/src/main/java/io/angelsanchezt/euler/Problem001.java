@@ -4,6 +4,8 @@ package io.angelsanchezt.euler;
 /* 
  * Solution to Project Euler problem 1
  * 
+ * TEST
+ * 
  * https://github.com/AngelSanchezT/Project-Euler-solutions
  */
 public class Problem001 {
