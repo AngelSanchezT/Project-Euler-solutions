@@ -11,13 +11,12 @@ The repository follows the following folder structure:
 - `JavaScript`: Contains the solutions implemented in JavaScript.
 - `Python`: Contains the solutions implemented in Python.
 
-| Language   | Number of Problems Solved       | Logo                                          |
-|------------|---------------------------------|-----------------------------------------------|
-| Java       | 10                              | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1024px-Java_programming_language_logo.svg.png" width="40"> |
-| C#         | 8                               | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png" width="40"> |
-| JavaScript | 12                              | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png" width="40"> |
-| Python     | 15                              | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/200px-Python-logo-notext.svg.png" width="40"> |
-
+|                                                | Language   | Number of Problems Solved       |
+|------------------------------------------------|------------|---------------------------------|
+| <img src="./images/Java.png" width="40">       | Java       | 5                               |
+| <img src="./images/C_Sharp.png" width="40">    | C#         | 0                               |
+| <img src="./images/JavaScript.png" width="40"> | JavaScript | 0                               |
+| <img src="./images/Python.png" width="40">     | Python     | 2                               |
 
 Inside each language folder, you will find a folder for each Project Euler problem, where the corresponding solution file is located.
 
