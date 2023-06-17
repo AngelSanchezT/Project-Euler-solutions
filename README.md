@@ -11,7 +11,7 @@ The repository follows the following folder structure:
 - `JavaScript`: Contains the solutions implemented in JavaScript.
 - `Python`: Contains the solutions implemented in Python.
 
-| Language                                                    | Number of Problems Solved       |
+|                                                | Language   | Number of Problems Solved       |
 |------------------------------------------------|------------|---------------------------------|
 | <img src="./images/Java.png" width="40">       | Java       | 5                               |
 | <img src="./images/C_Sharp.png" width="40">    | C#         | 0                               |
