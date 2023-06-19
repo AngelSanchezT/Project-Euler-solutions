@@ -1,5 +1,3 @@
-
-
 function problem001(limit) {
     let sum = 0;
     for(let i = 1; i < limit; i ++) {
