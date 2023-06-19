@@ -1,4 +1,3 @@
-// import { problem001 } from '../problems/problem001';
 const multiplesOf3And5 = require('../problems/problem001');
 
 
