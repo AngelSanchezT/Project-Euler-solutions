@@ -1,19 +1,30 @@
 # Project Euler solutions in JavaScript
 
-This directory contains solutions to Project Euler problems implemented in JavaScript.
+This directory contains solutions to Project Euler problems implemented in JavaScript. Each problem has its own solution in a separe file and unit tests are included for each of them.
 
-## Folder structure
+## Table of Contents
+1. [Description](#description)
+2. [Repository Structure](#repository-structure)
+3. [Execution of unit test](#execution-of-unit-test)
 
-- `Problem1`: Solution to Problem 1.
-- `Problem2`: Solution to Problem 2.
-- ...
+## Structure of the repository
 
-## Instructions for use
+The directory and file structure in this repository is as follows:
 
-- Each problem folder contains a `solution.js` file that contains the corresponding solution implementation.
-- You can browse and run the solution files in a JavaScript execution environment, such as a web browser or Node.js.
-- Remember that these files contain solutions to the problems, so we recommend that you try to solve them yourself before consulting these solutions.
+```
+project-euler/
+├── problems/
+│ ├── problem1.js
+│ ├── problem2.js
+│ ├── ...
+│ └── problemX.js
+└── tests/
+├── problem1.test.js
+├── problem2.test.js
+├── ...
+└── problemX.test.js
+```
 
-## Contributions
+The `problems/` directory contains the files with the solutions to Project Euler problems. Each problem has its own file, for example: `problem001.js`, `problem002.js`, etc.
 
-Feel free to contribute your own JavaScript solutions! If you have a different or more efficient solution, you can add it in a new problem folder or improve an existing solution. We would love to see your contributions!
+The `tests/` directory contains the unit test files for each problem. Each test file corresponds to the solution of a problem, for example: `problem001.test.js`, `problem002.test.js`, etc.
