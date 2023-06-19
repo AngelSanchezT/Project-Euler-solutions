@@ -13,15 +13,15 @@ The directory and file structure in this repository is as follows:
 ```
 project-euler/
 ├── problems/
-│ ├── problem1.js
-│ ├── problem2.js
+│ ├── problem001.js
+│ ├── problem002.js
 │ ├── ...
-│ └── problemX.js
+│ └── problemXXX.js
 └── tests/
-├── problem1.test.js
-├── problem2.test.js
+├── problem001.test.js
+├── problem002.test.js
 ├── ...
-└── problemX.test.js
+└── problemXXX.test.js
 ```
 
 The `problems/` directory contains the files with the solutions to Project Euler problems. Each problem has its own file, for example: `problem001.js`, `problem002.js`, etc.
