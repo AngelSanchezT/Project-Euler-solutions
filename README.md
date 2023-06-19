@@ -6,12 +6,12 @@ This repositorio contains solutions to Project Euler problems implmented in vari
 
 The repository follows the following folder structure:
 
-|                                                | Language                    | Number of Problems Solved       |Total     |
-|------------------------------------------------|-----------------------------|---------------------------------|----------|
-| <img src="./images/Java.png" width="40">       | [Java](./java/)             | ✅✅✅✅✅                    | 5        |
-| <img src="./images/C_Sharp.png" width="40">    | [C#](./C%23/)               |                                 | 0        |
-| <img src="./images/JavaScript.png" width="40"> | [Javascript](./Javascript/) |                                 | 0        |
-| <img src="./images/Python.png" width="40">     | [Python](./python/)         | ✅✅                           | 2        |
+|                                                | Language                    | Number of Problems Solved / Total|
+|------------------------------------------------|-----------------------------|--------------------------------- |
+| <img src="./images/Java.png" width="40">       | [Java](./java/)             | `5 / 848`                        |
+| <img src="./images/C_Sharp.png" width="40">    | [C#](./C%23/)               | `0 / 848`                        |
+| <img src="./images/JavaScript.png" width="40"> | [Javascript](./Javascript/) | `2 / 848`                        |
+| <img src="./images/Python.png" width="40">     | [Python](./python/)         | `2 / 848`                        |
 
 Inside each language folder, you will find a folder for each Project Euler problem, where the corresponding solution file is located.
 
