@@ -19,7 +19,7 @@ $$1, 3, 6, 10, 15, 21, 28, 36, 45, 55, \dots$$</p>
 
 |                    |                                                  |
 |--------------------|--------------------------------------------------|
-| Published:         | Friday, 22nd February 2002, 01:00 pm             |
+| Published:         | Friday, 8th March 2002, 01:00 pm                 |
 | Difficulty rating: | 5%                                               |
 | Overview (PDF):    | [problem 12](./012_overview.pdf)                 |
 | Forum problem:     | [problem 12](https://projecteuler.net/thread=12) |
