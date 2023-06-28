@@ -15,12 +15,10 @@ The repository follows the following folder structure:
 
 | ID  | Title                       | Dificulty                                     | [Java](./java/)    |
 |-----|-----------------------------|-----------------------------------------------|--------------------|
-| 001 | Multiples of 3 or 5         | <progress value="5" max="100"></progress> 5%  | :white_check_mark: [Solution](./java/euler/src/main/java/io/angelsanchezt/euler/Problem001.java) |
+| 001 | Multiples of 3 or 5         | <div style="background-color: #ebedf0; border-radius: 4px; height: 10px; width: 50%;"><div style="background-color: #0366d6; border-radius: 4px; height: 10px; width: 50%;"></div></div> 5%  | :white_check_mark: [Solution](./java/euler/src/main/java/io/angelsanchezt/euler/Problem001.java) |
 |
-|
-|
-|
-|
+
+
 
 
 
