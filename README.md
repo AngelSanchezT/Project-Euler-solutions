@@ -15,8 +15,8 @@ The repository follows the following folder structure:
 
 | ID  | Title                       | Dificulty                                     | [Java](./java/)    |
 |-----|-----------------------------|-----------------------------------------------|--------------------|
-| 001 | Multiples of 3 or 5         | 🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 5%   | :white_check_mark: [Solution](./java/euler/src/main/java/io/angelsanchezt/euler/Problem001.java) |
-|
+| 001 | Multiples of 3 or 5         | ◼◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻ 5%   | :white_check_mark: [Solution](./java/euler/src/main/java/io/angelsanchezt/euler/Problem001.java) |
+|◻◽▫◽▪◾◻◼
 
 
 
