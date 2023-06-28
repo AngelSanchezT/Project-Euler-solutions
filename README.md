@@ -10,7 +10,7 @@ The repository follows the following folder structure:
 |------------------------------------------------|-----------------------------|--------------------------------- |
 | <img src="./images/Java.png" width="40">       | [Java](./java/)             | `5 / 848`                        |
 | <img src="./images/C_Sharp.png" width="40">    | [C#](./C%23/)               | `0 / 848`                        |
-| <img src="./images/JavaScript.png" width="40"> | [Javascript](./Javascript/) | `3 / 848`                        |
+| <img src="./images/JavaScript.png" width="40"> | [Javascript](./Javascript/) | `5 / 848`                        |
 | <img src="./images/Python.png" width="40">     | [Python](./python/)         | `2 / 848`                        |
 
 Inside each language folder, you will find a folder for each Project Euler problem, where the corresponding solution file is located.
