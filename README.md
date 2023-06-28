@@ -17,7 +17,11 @@ Inside each language folder, you will find a folder for each Project Euler probl
 
 | ID  | Title  | Dificulty | [Java](./java/)    | [C#](./C%23/) | [Javascript](./Javascript/) | [Python](./python/) |
 |-----|--------|-----------|--------------------|---------------|-----------------------------|---------------------|
-| 001 | [Multiples of 3 or 5](./doc/Problem001/README.md)         | ◻◾◾◾◾◾◾◾◾◾ 5%   | :white_check_mark: [Solution](./java/euler/src/main/java/io/angelsanchezt/euler/Problem001.java) |:red_circle:|:red_circle:|:red_circle:|
+| 001 | [Multiples of 3 or 5](./doc/Problem001/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% | :white_check_mark: [Solution](./java/euler/src/main/java/io/angelsanchezt/euler/Problem001.java) ||||
+| 002 | [Even Fibonacci Numbers](./doc/Problem002/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% | :white_check_mark: [Solution](./java/euler/src/main/java/io/angelsanchezt/euler/Problem002.java) ||||
+| 003 | [Largest Prime Factor](./doc/Problem003/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% | :white_check_mark: [Solution](./java/euler/src/main/java/io/angelsanchezt/euler/Problem003.java) ||||
+| 004 | [Largest Palindrome Product](./doc/Problem004/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% | :white_check_mark: [Solution](./java/euler/src/main/java/io/angelsanchezt/euler/Problem004.java) ||||
+| 005 | [Smallest Multiple](./doc/Problem005/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% | :white_check_mark: [Solution](./java/euler/src/main/java/io/angelsanchezt/euler/Problem005.java) ||||
 
 ## How to use the solutions
 
