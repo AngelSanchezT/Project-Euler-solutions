@@ -1,16 +1,22 @@
-# Problem 20: Factorial Digit Sum
+# Problem 19: Counting Sundays
 
-<p>$n!$ means $n \times (n - 1) \times \cdots \times 3 \times 2 \times 1$.</p>
-<p>For example, $10! = 10 \times 9 \times \cdots \times 3 \times 2 \times 1 = 3628800$,<br>and the sum of the digits in the number $10!$ is $3 + 6 + 2 + 8 + 8 + 0 + 0 = 27$.</p>
-<p>Find the sum of the digits in the number $100!$.</p>
-
+<p>You are given the following information, but you may prefer to do some research for yourself.</p>
+<ul><li>1 Jan 1900 was a Monday.</li>
+<li>Thirty days has September,<br />
+April, June and November.<br />
+All the rest have thirty-one,<br />
+Saving February alone,<br />
+Which has twenty-eight, rain or shine.<br />
+And on leap years, twenty-nine.</li>
+<li>A leap year occurs on any year evenly divisible by 4, but not on a century unless it is divisible by 400.</li>
+</ul><p>How many Sundays fell on the first of the month during the twentieth century (1 Jan 1901 to 31 Dec 2000)?</p>
 
 ## Expected Output
 
 |                    |                                                   |
 |--------------------|---------------------------------------------------|
-| Published:         | Friday, 21st June 2002, 12:00 pm                  |
+| Published:         | Friday, 14th June 2002, 12:00 pm                   |
 | Difficulty rating: | 5%                                                |
-| Overview (PDF):    | [problem 20](./020_overview.pdf)                  |
-| Forum problem:     | [problem 20](https://projecteuler.net/thread=20)  |
+| Overview (PDF):    | [problem 19](./019_overview.pdf)                  |
+| Forum problem:     | [problem 19](https://projecteuler.net/thread=19)  |
  
