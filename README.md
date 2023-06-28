@@ -17,12 +17,37 @@ Inside each language folder, you will find a folder for each Project Euler probl
 
 | ID  | Title  | Dificulty | [Java](./java/)    | [C#](./C%23/) | [Javascript](./Javascript/) | [Python](./python/) |
 |-----|--------|-----------|--------------------|---------------|-----------------------------|---------------------|
-| 001 | [Multiples of 3 or 5](./doc/Problem001/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% | :white_check_mark: [Solution](./java/euler/src/main/java/io/angelsanchezt/euler/Problem001.java) ||||
-| 002 | [Even Fibonacci Numbers](./doc/Problem002/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% | :white_check_mark: [Solution](./java/euler/src/main/java/io/angelsanchezt/euler/Problem002.java) ||||
-| 003 | [Largest Prime Factor](./doc/Problem003/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% | :white_check_mark: [Solution](./java/euler/src/main/java/io/angelsanchezt/euler/Problem003.java) ||||
-| 004 | [Largest Palindrome Product](./doc/Problem004/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% | :white_check_mark: [Solution](./java/euler/src/main/java/io/angelsanchezt/euler/Problem004.java) ||||
-| 005 | [Smallest Multiple](./doc/Problem005/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% | :white_check_mark: [Solution](./java/euler/src/main/java/io/angelsanchezt/euler/Problem005.java) ||||
-| 006 | [Sum Square Difference](./doc/Problem006/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% |<!-- JAVA -->|<!-- C# -->|<!-- JS -->|<!-- Python -->|
+| 001 | [Multiples of 3 or 5](./doc/Problem001/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% | :white_check_mark: [Solution](./java/euler/src/main/java/io/angelsanchezt/euler/Problem001.java) |<!-- C# -->|<!-- JS -->|<!-- Python -->|
+| 002 | [Even Fibonacci Numbers](./doc/Problem002/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% | :white_check_mark: [Solution](./java/euler/src/main/java/io/angelsanchezt/euler/Problem002.java) |<!-- C# -->|<!-- JS -->|<!-- Python -->|
+| 003 | [Largest Prime Factor](./doc/Problem003/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% | :white_check_mark: [Solution](./java/euler/src/main/java/io/angelsanchezt/euler/Problem003.java) |<!-- C# -->|<!-- JS -->|<!-- Python -->|
+| 004 | [Largest Palindrome Product](./doc/Problem004/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% | :white_check_mark: [Solution](./java/euler/src/main/java/io/angelsanchezt/euler/Problem004.java) |<!-- C# -->|<!-- JS -->|<!-- Python -->|
+| 005 | [Smallest Multiple](./doc/Problem005/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% | :white_check_mark: [Solution](./java/euler/src/main/java/io/angelsanchezt/euler/Problem005.java) |<!-- C# -->|<!-- JS -->|<!-- Python -->|
+| 007 | [Sum Square Difference](./doc/Problem007/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% |<!-- JAVA -->|<!-- C# -->|<!-- JS -->|<!-- Python -->|
+| 008 | [Sum Square Difference](./doc/Problem008/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% |<!-- JAVA -->|<!-- C# -->|<!-- JS -->|<!-- Python -->|
+| 009 | [Sum Square Difference](./doc/Problem009/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% |<!-- JAVA -->|<!-- C# -->|<!-- JS -->|<!-- Python -->|
+| 010 | [Sum Square Difference](./doc/Problem010/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% |<!-- JAVA -->|<!-- C# -->|<!-- JS -->|<!-- Python -->|
+| 011 | [Sum Square Difference](./doc/Problem011/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% |<!-- JAVA -->|<!-- C# -->|<!-- JS -->|<!-- Python -->|
+| 012 | [Sum Square Difference](./doc/Problem012/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% |<!-- JAVA -->|<!-- C# -->|<!-- JS -->|<!-- Python -->|
+| 013 | [Sum Square Difference](./doc/Problem013/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% |<!-- JAVA -->|<!-- C# -->|<!-- JS -->|<!-- Python -->|
+| 014 | [Sum Square Difference](./doc/Problem014/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% |<!-- JAVA -->|<!-- C# -->|<!-- JS -->|<!-- Python -->|
+| 015 | [Sum Square Difference](./doc/Problem015/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% |<!-- JAVA -->|<!-- C# -->|<!-- JS -->|<!-- Python -->|
+| 016 | [Sum Square Difference](./doc/Problem016/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% |<!-- JAVA -->|<!-- C# -->|<!-- JS -->|<!-- Python -->|
+| 017 | [Sum Square Difference](./doc/Problem017/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% |<!-- JAVA -->|<!-- C# -->|<!-- JS -->|<!-- Python -->|
+| 018 | [Sum Square Difference](./doc/Problem018/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% |<!-- JAVA -->|<!-- C# -->|<!-- JS -->|<!-- Python -->|
+| 019 | [Sum Square Difference](./doc/Problem019/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% |<!-- JAVA -->|<!-- C# -->|<!-- JS -->|<!-- Python -->|
+| 020 | [Sum Square Difference](./doc/Problem020/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% |<!-- JAVA -->|<!-- C# -->|<!-- JS -->|<!-- Python -->|
+| 021 | [Sum Square Difference](./doc/Problem021/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% |<!-- JAVA -->|<!-- C# -->|<!-- JS -->|<!-- Python -->|
+| 022 | [Sum Square Difference](./doc/Problem022/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% |<!-- JAVA -->|<!-- C# -->|<!-- JS -->|<!-- Python -->|
+| 023 | [Sum Square Difference](./doc/Problem023/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% |<!-- JAVA -->|<!-- C# -->|<!-- JS -->|<!-- Python -->|
+| 024 | [Sum Square Difference](./doc/Problem024/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% |<!-- JAVA -->|<!-- C# -->|<!-- JS -->|<!-- Python -->|
+| 025 | [Sum Square Difference](./doc/Problem025/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% |<!-- JAVA -->|<!-- C# -->|<!-- JS -->|<!-- Python -->|
+| 026 | [Sum Square Difference](./doc/Problem026/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% |<!-- JAVA -->|<!-- C# -->|<!-- JS -->|<!-- Python -->|
+| 027 | [Sum Square Difference](./doc/Problem027/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% |<!-- JAVA -->|<!-- C# -->|<!-- JS -->|<!-- Python -->|
+| 028 | [Sum Square Difference](./doc/Problem028/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% |<!-- JAVA -->|<!-- C# -->|<!-- JS -->|<!-- Python -->|
+| 029 | [Sum Square Difference](./doc/Problem029/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% |<!-- JAVA -->|<!-- C# -->|<!-- JS -->|<!-- Python -->|
+| 030 | [Sum Square Difference](./doc/Problem030/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% |<!-- JAVA -->|<!-- C# -->|<!-- JS -->|<!-- Python -->|
+
+
 
 ## How to use the solutions
 
