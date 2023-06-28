@@ -13,16 +13,11 @@ The repository follows the following folder structure:
 | <img src="./images/JavaScript.png" width="40"> | [Javascript](./Javascript/) | `3 / 848`                        |
 | <img src="./images/Python.png" width="40">     | [Python](./python/)         | `2 / 848`                        |
 
-| ID  | Title                       | Dificulty                                     | [Java](./java/)    |
-|-----|-----------------------------|-----------------------------------------------|--------------------|
-| 001 | [Multiples of 3 or 5](./doc/Problem001/README.md)         | ◻◾◾◾◾◾◾◾◾◾ 5%   | :white_check_mark: [Solution](./java/euler/src/main/java/io/angelsanchezt/euler/Problem001.java) |
-
-
-
-
-
-
 Inside each language folder, you will find a folder for each Project Euler problem, where the corresponding solution file is located.
+
+| ID  | Title                       | Dificulty                                     | [Java](./java/)    | [C#](./C%23/) |
+|-----|-----------------------------|-----------------------------------------------|--------------------|---------------|
+| 001 | [Multiples of 3 or 5](./doc/Problem001/README.md)         | ◻◾◾◾◾◾◾◾◾◾ 5%   | :white_check_mark: [Solution](./java/euler/src/main/java/io/angelsanchezt/euler/Problem001.java) |:red_circle:|
 
 ## How to use the solutions
 
