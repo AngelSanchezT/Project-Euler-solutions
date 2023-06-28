@@ -15,8 +15,8 @@ The repository follows the following folder structure:
 
 | ID  | Title                       | Dificulty                                     | [Java](./java/)    |
 |-----|-----------------------------|-----------------------------------------------|--------------------|
-| 001 | Multiples of 3 or 5         | ◼◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻◻ 5%   | :white_check_mark: [Solution](./java/euler/src/main/java/io/angelsanchezt/euler/Problem001.java) |
-|◻◽▫◽▪◾◻◼
+| 001 | Multiples of 3 or 5         | ◻◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾ 5%   | :white_check_mark: [Solution](./java/euler/src/main/java/io/angelsanchezt/euler/Problem001.java) |
+
 
 
 
@@ -41,3 +41,6 @@ Contributions are welcome! If you have a different or more efficient solution to
 4. Make a pull request so we can review your contribution.
 
 We look forward to seeing your contributions!
+
+
+|◻◽▫◽▪◾◻◼
