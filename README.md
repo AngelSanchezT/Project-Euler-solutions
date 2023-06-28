@@ -22,6 +22,7 @@ Inside each language folder, you will find a folder for each Project Euler probl
 | 003 | [Largest Prime Factor](./doc/Problem003/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% | :white_check_mark: [Solution](./java/euler/src/main/java/io/angelsanchezt/euler/Problem003.java) ||||
 | 004 | [Largest Palindrome Product](./doc/Problem004/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% | :white_check_mark: [Solution](./java/euler/src/main/java/io/angelsanchezt/euler/Problem004.java) ||||
 | 005 | [Smallest Multiple](./doc/Problem005/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% | :white_check_mark: [Solution](./java/euler/src/main/java/io/angelsanchezt/euler/Problem005.java) ||||
+| 006 | [Sum Square Difference](./doc/Problem006/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% |<!-- JAVA -->|<!-- C# -->|<!-- JS -->|<!-- Python -->|
 
 ## How to use the solutions
 
