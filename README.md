@@ -1,5 +1,7 @@
 # Project-Euler-solutions
 
+https://projecteuler.net/profile/ajsanchez22.png
+
 This repositorio contains solutions to Project Euler problems implmented in varios programming languajes
 
 ## Structure of the repository
