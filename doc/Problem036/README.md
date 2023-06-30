@@ -1,4 +1,4 @@
-# Problem 35 : Double-base Palindromes
+# Problem 36 : Double-base Palindromes
 
 <p>The decimal number, $585 = 1001001001_2$ (binary), is palindromic in both bases.</p>
 <p>Find the sum of all numbers, less than one million, which are palindromic in base $10$ and base $2$.</p>
