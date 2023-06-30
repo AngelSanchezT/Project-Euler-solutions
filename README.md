@@ -50,6 +50,16 @@ Inside each language folder, you will find a folder for each Project Euler probl
 | 028 | [Number Spiral Diagonals](./doc/Problem028/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% |<!-- JAVA -->|<!-- C# -->|<!-- JS -->|<!-- Python -->|
 | 029 | [Distinct Powers](./doc/Problem029/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% |<!-- JAVA -->|<!-- C# -->|<!-- JS -->|<!-- Python -->|
 | 030 | [Digit Fifth Powers](./doc/Problem030/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% |<!-- JAVA -->|<!-- C# -->|<!-- JS -->|<!-- Python -->|
+| 031 | [Coin Sums](./doc/Problem031/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% |<!-- JAVA -->|<!-- C# -->|<!-- JS -->|<!-- Python -->|
+| 032 | [Pandigital Products](./doc/Problem032/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% |<!-- JAVA -->|<!-- C# -->|<!-- JS -->|<!-- Python -->|
+| 033 | [Digit Cancelling Fractions](./doc/Problem033/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% |<!-- JAVA -->|<!-- C# -->|<!-- JS -->|<!-- Python -->|
+| 034 | [Digit Factorials](./doc/Problem034/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% |<!-- JAVA -->|<!-- C# -->|<!-- JS -->|<!-- Python -->|
+| 035 | [Circular Primes](./doc/Problem035/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% |<!-- JAVA -->|<!-- C# -->|<!-- JS -->|<!-- Python -->|
+| 036 | [Double-base Palindromes](./doc/Problem036/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% |<!-- JAVA -->|<!-- C# -->|<!-- JS -->|<!-- Python -->|
+| 037 | [Truncatable Primes](./doc/Problem037/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% |<!-- JAVA -->|<!-- C# -->|<!-- JS -->|<!-- Python -->|
+| 038 | [Pandigital Multiples](./doc/Problem038/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% |<!-- JAVA -->|<!-- C# -->|<!-- JS -->|<!-- Python -->|
+| 039 | [Integer Right Triangles](./doc/Problem039/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% |<!-- JAVA -->|<!-- C# -->|<!-- JS -->|<!-- Python -->|
+| 040 | [Champernowne's Constant](./doc/Problem040/README.md) | ◻◾◾◾◾◾◾◾◾◾ 5% |<!-- JAVA -->|<!-- C# -->|<!-- JS -->|<!-- Python -->|
 
 
 
