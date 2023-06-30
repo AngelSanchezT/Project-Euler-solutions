@@ -10,7 +10,7 @@ $$d_1 \times d_{10} \times d_{100} \times d_{1000} \times d_{10000} \times d_{10
 
 |                    |                                                   |
 |--------------------|---------------------------------------------------|
-| Published:         | Friday, 28th February 2003, 01:00 pm              |
+| Published:         | Friday, 28th March 2003, 01:00 pm;              |
 | Difficulty rating: | 5%                                                |
 | Overview (PDF):    | [problem 40](./040_overview.pdf)                  |
 | Forum problem:     | [problem 40](https://projecteuler.net/thread=40)  |
