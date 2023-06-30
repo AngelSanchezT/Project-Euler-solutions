@@ -1,15 +1,10 @@
-# Problem 38 : Pandigital Multiples
+# Problem 40 : Champernowne's Constant
 
-<p>Take the number $192$ and multiply it by each of $1$, $2$, and $3$:</p>
-\begin{align}
-192 \times 1 &amp;= 192\\
-192 \times 2 &amp;= 384\\
-192 \times 3 &amp;= 576
-\end{align}
-<p>By concatenating each product we get the $1$ to $9$ pandigital, $192384576$. We will call $192384576$ the concatenated product of $192$ and $(1,2,3)$.</p>
-<p>The same can be achieved by starting with $9$ and multiplying by $1$, $2$, $3$, $4$, and $5$, giving the pandigital, $918273645$, which is the concatenated product of $9$ and $(1,2,3,4,5)$.</p>
-<p>What is the largest $1$ to $9$ pandigital $9$-digit number that can be formed as the concatenated product of an integer with $(1,2, \dots, n)$ where $n \gt 1$?</p>
-
+<p>An irrational decimal fraction is created by concatenating the positive integers:
+$$0.12345678910{\color{red}\mathbf 1}112131415161718192021\cdots$$</p>
+<p>It can be seen that the $12$<sup>th</sup> digit of the fractional part is $1$.</p>
+<p>If $d_n$ represents the $n$<sup>th</sup> digit of the fractional part, find the value of the following expression.
+$$d_1 \times d_{10} \times d_{100} \times d_{1000} \times d_{10000} \times d_{100000} \times d_{1000000}$$</p>
 
 ## Expected Output
 
@@ -17,6 +12,6 @@
 |--------------------|---------------------------------------------------|
 | Published:         | Friday, 28th February 2003, 01:00 pm              |
 | Difficulty rating: | 5%                                                |
-| Overview (PDF):    | [problem 38](./038_overview.pdf)                  |
-| Forum problem:     | [problem 38](https://projecteuler.net/thread=38)  |
+| Overview (PDF):    | [problem 40](./040_overview.pdf)                  |
+| Forum problem:     | [problem 40](https://projecteuler.net/thread=40)  |
  
