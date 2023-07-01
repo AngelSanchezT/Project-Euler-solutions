@@ -1,0 +1,64 @@
+# .NET Core and Visual Studio generated files
+*.dll
+*.exe
+*.pdb
+*.user
+*.obj
+*.bin
+*.cache
+*.log
+*.vs
+[Bb]in/
+[Oo]bj/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Visual Studio files
+.vscode/
+*.sln.iml
+*.suo
+*.userprefs
+*.launchsettings
+*.vssettings
+*.csproj.user
+*.xaml.user
+*.psess
+*.vssscc
+
+# NuGet
+packages/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Oo]ut/
+
+# Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Mm]emoryCaptures/
+
+# Rider
+.idea/
+
+# Others
+Thumbs.db
+*.bak
+*.bak.*
+*.swp
+*~
+*.cache
+*.DS_Store
+*.dotCover
+*.resharper
+*.resharper.user
+_ReSharper.*
+*.rptproj.user
