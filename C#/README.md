@@ -14,12 +14,15 @@ This directory contains solutions to Project Euler problems implemented in C#.
 - You can browse and run the solution files in a C# development environment of your choice.
 - Remember that these files contain solutions to the problems, so we recommend that you try to solve them yourself before consulting these solutions.
 
- 526  cd C#/
-  527  dotnet new sln -n ProjectEulerSolutions
-    530  dotnet new console -n ProjectEulerSolutions
-  532  dotnet run
-  536  dotnet add package NUnit --source https://api.nuget.org/v3/index.json
-  537  dotnet run
+ cd C#/
+ dotnet new sln -n ProjectEulerSolutions
+ dotnet new console -n ProjectEulerSolutions
+ dotnet run
+ dotnet add package NUnit --source https://api.nuget.org/v3/index.json
+ dotnet add package NUnit.Runners --source https://api.nuget.org/v3/index.json
+
+ dotnet run
+ dotnet test
 
 
 
