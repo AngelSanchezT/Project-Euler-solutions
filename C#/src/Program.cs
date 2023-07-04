@@ -27,9 +27,11 @@ namespace ProjectEulerSolutions
             // Pausar la consola para ver el resultado antes de salir
             Console.WriteLine("Press any key to exit...");
             
-            
-            
-            
+            // Problem004
+            int len = 3;
+            long result = EulerProblems.Problem004.Solution(len);
+            Console.WriteLine("The largest palindrome product of two {0}-digit numbers is: {1}", len, result);
+
             Console.ReadKey();
 
 
