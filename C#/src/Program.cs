@@ -32,9 +32,13 @@ namespace ProjectEulerSolutions
             long result = EulerProblems.Problem004.Solution(len);
             Console.WriteLine("The largest palindrome product of two {0}-digit numbers is: {1}", len, result);
 
+            // Problem005
+            long min = 1;
+            long max = 20;
+            long result = EulerProblems.Problem005.Solution(min, max);
+            Console.WriteLine("The smallest positive number that is evenly divisible by all numbers from {0} to {1} is: {2}", min, max, result);
+
             Console.ReadKey();
-
-
         }
     }
 }
