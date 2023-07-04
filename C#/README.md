@@ -25,6 +25,9 @@ This directory contains solutions to Project Euler problems implemented in C#.
  dotnet test
 
 
+git add . && git commit -m"Solution Problem004" && git push origin
+
+
 
 ## Contributions
 
